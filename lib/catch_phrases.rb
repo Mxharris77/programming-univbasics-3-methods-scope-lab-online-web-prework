@@ -13,3 +13,8 @@ def link
   message = "It's Dangerous To Go Alone! Take This."
   puts message
 end
+
+def any_phrase
+  anything = "Do A Barrel Roll!"
+  puts anything
+end
